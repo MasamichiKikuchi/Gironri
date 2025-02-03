@@ -106,8 +106,8 @@ void SceneGameTitle::Process()
 		{
 			// フェードアウト終了
 			
-			//SceneBase* scene = new SceneTalk(99);
-			SceneBase* scene = new SceneGameMain(5);
+			SceneBase* scene = new SceneTalk(99);
+	
 			ChangeScene(scene);
 		}
 	}
