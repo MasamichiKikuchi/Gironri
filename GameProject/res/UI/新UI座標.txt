@@ -1,0 +1,12 @@
+
+UI_back
+X:0 Y:1015
+
+UI_mental_limit_inside
+X:155 Y:1050
+
+UI_mental
+X:167 Y:1047
+
+UI_message
+X:0 Y:826

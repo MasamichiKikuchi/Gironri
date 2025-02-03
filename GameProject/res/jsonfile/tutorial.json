@@ -1,0 +1,209 @@
+[
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（何..ここ.......）",
+		"message2": "",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "",
+		"message1": "",
+		"message2": "",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "文字が可視化している？",
+		"message2": "現実とは明らかに違う場所だし......",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "",
+		"message1": "",
+		"message2": "",
+		"command": 2
+	},
+		{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "痛っ！",
+		"message2": "",
+		"command": 0
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（確かに文字に当たった感覚がある。痛い......。）",
+		"message2": "",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 3
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "ひっ！嫌だっ......!",
+		"message2": "",
+		"command": 0
+	},
+	{
+		"chara": "res/tutorial/hint_1.png",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 4
+	},
+		{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（痛いのは嫌だ....",
+		"message2": "この文字も、聞きたくない......！）",
+		"command": 0
+	},
+		{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 5
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（......待てよ？よく見ると嫌な言葉だけじゃない。",
+		"message2": "重要なヒントも流れてきている....？なんだかカードみたい）",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（このカードを集めれば....反論できるかもしれない！）",
+		"message2": "",
+		"command": 0
+	},
+		{
+		"chara": "res/tutorial/hint_2.png",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 0
+	},
+		{
+		"chara": "res/tutorial/hint_3.png",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 0
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 6
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "（カードは幾つかあるみたい....全て集めてから",
+		"message2": "どれで反撃できるか考えた方がいいのかもしれない......）",
+		"command": 0
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 7
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "これでカードは全部....",
+		"message2": "どれで反撃できるか考えよう",
+		"command": 0
+	},
+			{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 8
+	},
+	{
+		"chara": "res/tutorial/hint_4.png",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "",
+		"message2": "",
+		"command": 9
+	}
+]

@@ -1,0 +1,11 @@
+反論パート正解時の裏返し（上から順に変化）
+カードサイズ（Y座標）
+countercard_pink.png(282)
+
+card_turn0.png(175)
+
+card_turn1.png(176)
+
+card_turn2.png(175)
+
+countercard_return_pink.png(282)

@@ -1,0 +1,47 @@
+[
+	{
+		"chara": "res/talkpart/chara/chara_y_0.png",
+		"charaX": 310,
+		"charaY": 0,
+		"name": "皇コハク",
+		"message1": "貴女の発言は聞くに値しません。",
+		"message2": "審査会はこれで終了です。",
+		"command": 0
+	},
+	{
+		"chara": "res/talkpart/chara/chara_s_b5.png",
+		"charaX": 310,
+		"charaY": 0,
+		"name": "白雪セツナ",
+		"message1": "もうどうしようもない…。",
+		"message2": "でもここで終わるわけには…！",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"charaX": 0,
+		"charaY": 0,
+		"name": "",
+		"message1": "",
+		"message2": "",
+		"command": 6
+	},
+	{
+		"chara": "",
+		"charaX": 310,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "リトライ",
+		"message2": "",
+		"command": 2
+	},
+	{
+		"chara": "",
+		"charaX": 310,
+		"charaY": 0,
+		"name": "セツナ",
+		"message1": "タイトル",
+		"message2": "",
+		"command": 3
+	}
+]
